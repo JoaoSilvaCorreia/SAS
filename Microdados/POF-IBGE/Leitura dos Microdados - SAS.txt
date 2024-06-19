@@ -254,7 +254,7 @@ INPUT
 run;
 
 
-/* REGISTRO - SERVI«OS N√O MONET¡RIOS/POF 2 */
+/* REGISTRO - SERVI√áOS NƒÇO MONET√ÅRIOS/POF 2 */
 
 data servico_nao_monetario_pof2;
 INFILE "....\SERVICO_NAO_MONETARIO_POF2.txt";
@@ -286,7 +286,7 @@ INPUT
 run;
 
 
-/* REGISTRO - INVENT¡RIO DE BENS DUR¡VEIS */
+/* REGISTRO - INVENT√ÅRIO DE BENS DUR√ÅVEIS */
 
 data inventario_bens_duraveis;
 INFILE ".....\INVENTARIO.txt";
@@ -374,7 +374,7 @@ INPUT
 run;
 
 
-/* REGISTRO - SERVI«OS N√O MONET¡RIOS/POF 4 */
+/* REGISTRO - SERVI√áOS NƒÇO MONET√ÅRIOS/POF 4 */
 
 data servico_nao_monetario_pof4;
 INFILE "....\SERVICO_NAO_MONETARIO_POF4.txt";
@@ -406,7 +406,7 @@ INPUT
 run;
 
 
-/* REGISTRO - RESTRI«√O DE PRODUTOS OU SERVI«OS DE SA⁄DE */
+/* REGISTRO - RESTRI√áƒÇO DE PRODUTOS OU SERVI√áOS DE SA√öDE */
 
 data restricao_produtos_servicos_saude;
 INFILE ".....\RESTRICAO_PRODUTOS_SERVICOS_SAUDE.txt";
@@ -503,7 +503,7 @@ INPUT
 run;
 
 
-/* REGISTRO - CONDI«’ES DE VIDA */
+/* REGISTRO - CONDI√á≈êES DE VIDA */
 
 data condicoes_vida;
 INFILE ".....\CONDICOES_VIDA.txt";
@@ -566,7 +566,7 @@ INPUT
 run;
 
 
-/* REGISTRO - CARACTERÕSTICAS DA DIETA */
+/* REGISTRO - CARACTER√çSTICAS DA DIETA */
 
 data caracteristicas_dieta;
 INFILE ".....\CARACTERISTICAS_DIETA.txt";
