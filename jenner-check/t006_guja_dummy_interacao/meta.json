@@ -1,0 +1,7 @@
+{
+  "bundle": "t006_guja_dummy_interacao",
+  "source_file": "Econometria/ExercGuja9_7.sas",
+  "source_blob_sha": "c9caa6ff5bce9ee68e2eeab79b7a75c494947a7c",
+  "source_commit": "f97edaa2855330ee3d7fccfcb830522884fa0755",
+  "notes": "Substitution: upstream PROC IMPORT read GujaratiT9.7.xlsx from a hardcoded /home/joaovitorsilvaco0/... path. Replaced with an inline DATA step carrying a 25-row sample of the same 7 columns (RS, Idade, Dgen, DE2, DE3, DE4, DPT), taken directly from the xlsx shipped in the repo. Everything from 'DATA EXEMPLO9_7;' onward -- the log-wage transform, PROC CORR, and the 4 PROC REG models (baseline + 3 dummy-variable interaction specifications) -- is unmodified from the author's script."
+}

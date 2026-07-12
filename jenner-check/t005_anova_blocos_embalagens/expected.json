@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-12T04:16:00Z",
+  "_captured_run_id": "r_71a7fadfa73041178e91110324221416",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote EMBALAGENS (20 rows, 3 columns).",
+    "NOTE: PROC ANOVA data=",
+    "NOTE: PROC ANOVA: 20 observations, 2 effects analyzed"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

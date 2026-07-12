@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_regsimples_canetas",
+  "source_file": "Estatistica/REGSIMPLES.sas",
+  "source_blob_sha": "45e2adf47aa63e33d374f0d3c5c33e6da5e426ff",
+  "source_commit": "f97edaa2855330ee3d7fccfcb830522884fa0755",
+  "notes": "Self-contained (no substitution needed): illiteracy-by-region example (SETPRIMAANALFA) with PROC PLOT scatter, PROC CORR, and PROC REG with residual/predicted OUTPUT dataset. Runs verbatim from the repo."
+}

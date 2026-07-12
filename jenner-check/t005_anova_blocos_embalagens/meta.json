@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_anova_blocos_embalagens",
+  "source_file": "Estatistica/LISTA11.sas",
+  "source_blob_sha": "4b2d1e057c6a2d04a80694df7250a795e67bb0cc",
+  "source_commit": "f97edaa2855330ee3d7fccfcb830522884fa0755",
+  "notes": "Excerpted the first worked example (EMBALAGENS) from LISTA11.sas: a randomized-block-design PROC ANOVA with two CLASS effects (TRATAMENTO, BLOCO), verbatim. Produces a real two-way ANOVA F-table (diversifies from the one-way ANOVA in t003). Not substituted -- self-contained inline data."
+}

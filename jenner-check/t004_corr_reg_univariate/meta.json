@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_corr_reg_univariate",
+  "source_file": "Estatistica/CORR_REG.sas",
+  "source_blob_sha": "5cff772d5b42c04d0c0f609f6b81bb4cb8898aa3",
+  "source_commit": "f97edaa2855330ee3d7fccfcb830522884fa0755",
+  "notes": "Self-contained (no substitution needed): the advertising-vs-sales (EMPRESA) worked example plus three correlation exercises, chained into PROC PLOT scatter, PROC CORR, PROC REG with a RESIDUAL/PREDICTED OUTPUT dataset, and PROC UNIVARIATE with QQPLOT/normality tests on the regression residuals. Richest single script in the repo; runs verbatim."
+}

@@ -1,0 +1,24 @@
+                                                   The REG Procedure                                                    
+                                                     Model: MODEL1                                                      
+                                                Dependent Variable: wage                                                
+
+Source                 DF  Sum of Squares  Mean Square   F Value    Pr > F
+---------------  --------  --------------  -----------  --------  --------
+Model                   4       315.58857     78.89714      5.12    0.0052
+Error                  20       307.98903     15.39945                    
+Corrected Total        24       623.57760                                 
+
+Root MSE           3.92421    R-Square            0.5061
+Dependent Mean       7.60200    Adj R-Sq            0.4073
+Coeff Var         51.62080
+
+                       Parameter Estimates                       
+
+Variable         DF  Estimate  Standard Error   t Value  Pr > |t|
+---------  --------  --------  --------------  --------  --------
+Intercept         1  -6.22576         5.76174     -1.08    0.2928
+female            1  -3.21654         1.73804     -1.85    0.0790
+educ              1   1.04719         0.38108      2.75    0.0124
+exper             1   0.08091         0.09985      0.81    0.4273
+tenure            1   0.14109         0.16614      0.85    0.4058
+

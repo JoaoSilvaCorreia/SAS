@@ -1,0 +1,20 @@
+{
+  "_captured_at": "2026-07-12T04:05:00Z",
+  "_captured_run_id": "r_7e0e80661af840bdabfe3a95e9d9f3dc",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote SETPRIMAANALFA (8 rows, 3 columns).",
+    "NOTE: PROC PLOT produced 1 plot(s) from 8 observations.",
+    "NOTE: PROC REG: processed 1 job(s) in batch",
+    "NOTE: Output dataset OUT_SETPRIMAANALFA written."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

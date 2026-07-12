@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_demanda_energia",
+  "source_file": "Econometria/DemandaEnergua.sas",
+  "source_blob_sha": "0a3b3b8afa2a320cc67915de03373266634ad3f6",
+  "source_commit": "f97edaa2855330ee3d7fccfcb830522884fa0755",
+  "notes": "Self-contained (no substitution needed): 1981-1990 energy demand time series (Q, T, Y, D) with a dummy variable D, fit with PROC REG multiple regression. Runs verbatim from the repo."
+}

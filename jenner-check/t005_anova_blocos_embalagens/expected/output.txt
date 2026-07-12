@@ -1,0 +1,13 @@
+
+Dependent Variable: VENDAS
+
+Source                  DF  Sum of Squares     Mean Square    F Value     Pr > F
+--------------------------------------------------------------------------------
+TRATAMENTO               3        490.0000        163.3333       6.53     0.0072
+BLOCO                    4        400.0000        100.0000       4.00     0.0274
+Error                   12        300.0000         25.0000          .          .
+Corrected Total         19       1190.0000                          .          .
+
+R-Square: 0.7479  Root MSE: 5.0000  Mean: 35.0000
+
+

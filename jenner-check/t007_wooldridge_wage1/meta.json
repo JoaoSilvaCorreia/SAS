@@ -1,0 +1,7 @@
+{
+  "bundle": "t007_wooldridge_wage1",
+  "source_file": "Econometria/WooldExemplo7.1WAGE1.sas",
+  "source_blob_sha": "bf691d6303b6b966f2a3e00fa102d8edae2a0ddc",
+  "source_commit": "f97edaa2855330ee3d7fccfcb830522884fa0755",
+  "notes": "Substitution: upstream PROC IMPORT read wage1.xls from a hardcoded Windows path (C:\\Users\\joaov\\Google Drive\\...). Replaced with an inline DATA step carrying a 25-row sample of the 5 columns the model uses (wage, educ, exper, tenure, female), taken directly from the wage1.xls shipped in the repo's datasets_Wooldridge/ folder (Wooldridge's classic WAGE1 dataset). The PROC REG model statement is unmodified from the author's script."
+}

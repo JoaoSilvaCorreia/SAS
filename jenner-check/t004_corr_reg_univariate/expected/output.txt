@@ -1,0 +1,289 @@
+                                                 DIAGRAMA DE DISPERSÃO                                                  
+
+                         Plot of PROPAGANDA*VENDAS                         
+
+  3 +                                                                      
+    |                                                                      
+    |                                                                      
+    |                                                                      
+    |                                                                     1
+2.5 +                                                                      
+    |                                                    1                 
+    |                                                                      
+    |                                        1                             
+    |                                                                      
+    |                                                                      
+  2 +       1                                      1                       
+    |                                                                      
+    |                                                                      
+    |                                                                      
+    |     2                                                                
+1.5 +                                                                      
+    |1                                                                     
+    |                                                                      
+    |                                                                      
+    |                                                                      
+  1 +                                                                      
+    ++----------------------+----------------------+----------------------+
+     180                    200                    220                    24
+                                      VENDAS
+
+
+                                               COEFICIENTE DE CORRELAÇÃO                                                
+
+                    The CORR Procedure
+                     2 Variables:    PROPAGANDA   VENDAS
+                    Simple Statistics
+Variable         N      Mean   Std Dev       Sum   Minimum   Maximum
+--------  --------  --------  --------  --------  --------  --------
+PROPAGANDA         8    1.97500   0.42003    15.80000    1.40000    2.60000
+VENDAS             8  204.25000  23.34065  1634.00000  180.00000  240.00000
+   Pearson Correlation Coefficients, N = 8
+          Prob > |r| under H0: Rho=0
+          PROPAGANDA    VENDAS
+--------  --------  --------
+PROPAGANDA   1.00000   0.91291
+              .       0.0015
+VENDAS     0.91291   1.00000
+            0.0015      .
+                                               COEFICIENTE DE CORRELAÇÃO                                                
+
+                        Plot of GANHO*DIVIDENDOS                         
+
+6 +                                                                      
+  |                                                                      
+  |                                                                      
+  |                 1                                                    
+5 +                                                                      
+  |                                                                      
+  |                                                                      
+4 +                                                                      
+  |                                                                      
+  |                                   1                                  
+  |    1                                                                 
+3 +                                                                      
+  |                                                     1                
+  |                                              1                       
+2 +                       1                                              
+  |                                                                      
+  |                              1                                       
+  |                                   1                                  
+1 +                                                                    1 
+  |                 1                                                    
+  |                                                                      
+0 +                                                                      
+  ++----------------+-----------------+----------------+----------------+
+   0.8               1                1.2              1.4              1.
+                                  DIVIDENDOS
+
+
+                                               COEFICIENTE DE CORRELAÇÃO                                                
+
+                    The CORR Procedure
+                      2 Variables:    GANHO   DIVIDENDOS
+                    Simple Statistics
+Variable         N      Mean   Std Dev       Sum   Minimum   Maximum
+--------  --------  --------  --------  --------  --------  --------
+GANHO             10   2.23900   1.39120  22.39000   0.65000   5.21000
+DIVIDENDOS        10   1.18100   0.22002  11.81000   0.85000   1.59000
+   Pearson Correlation Coefficients, N = 10
+          Prob > |r| under H0: Rho=0
+               GANHODIVIDENDOS
+--------  --------  --------
+GANHO      1.00000  -0.34092
+              .       0.3350
+DIVIDENDOS  -0.34092   1.00000
+            0.3350      .
+                                               COEFICIENTE DE CORRELAÇÃO                                                
+
+                            Plot of RENDA*GASTO                            
+
+100 +                                                                     1
+    |                                                                      
+    |                                                                      
+    |                                                                      
+ 80 +                                                                      
+    |                                                                      
+    |                                           1                          
+    |                                                                      
+ 60 +                                                                      
+    |                                                                      
+    |                                                                      
+    |                                        1                             
+    |                                                                      
+ 40 +                                   1                                  
+    |                                                                      
+    |                          1                                           
+    |                                                                      
+ 20 +                1                                                     
+    |                                                                      
+    |          1                                                           
+    |   1 1                                                                
+  0 +                                                                      
+    ++----------------+-----------------+----------------+----------------+
+      0               10                20               30               40
+                                       GASTO
+
+
+                                               COEFICIENTE DE CORRELAÇÃO                                                
+
+                    The CORR Procedure
+                        2 Variables:    RENDA   GASTO
+                    Simple Statistics
+Variable         N      Mean   Std Dev       Sum   Minimum   Maximum
+--------  --------  --------  --------  --------  --------  --------
+RENDA            9  36.44444  32.55807  328.00000   3.00000  100.00000
+GASTO            9  15.88889  12.43427  143.00000   2.00000   40.00000
+   Pearson Correlation Coefficients, N = 9
+          Prob > |r| under H0: Rho=0
+               RENDA     GASTO
+--------  --------  --------
+RENDA      1.00000   0.98788
+              .       <.0001
+GASTO      0.98788   1.00000
+            <.0001      .
+                                                 DIAGRAMA DE DISPERSÃO                                                  
+
+                         Plot of PROPAGANDA*VENDAS                         
+
+  3 +                                                                      
+    |                                                                      
+    |                                                                      
+    |                                                                      
+    |                                                                     1
+2.5 +                                                                      
+    |                                                    1                 
+    |                                                                      
+    |                                        1                             
+    |                                                                      
+    |                                                                      
+  2 +       1                                      1                       
+    |                                                                      
+    |                                                                      
+    |                                                                      
+    |     2                                                                
+1.5 +                                                                      
+    |1                                                                     
+    |                                                                      
+    |                                                                      
+    |                                                                      
+  1 +                                                                      
+    ++----------------------+----------------------+----------------------+
+     180                    200                    220                    24
+                                      VENDAS
+
+
+                                               COEFICIENTE DE CORRELAÇÃO                                                
+
+                    The CORR Procedure
+                     2 Variables:    PROPAGANDA   VENDAS
+                    Simple Statistics
+Variable         N      Mean   Std Dev       Sum   Minimum   Maximum
+--------  --------  --------  --------  --------  --------  --------
+PROPAGANDA         8    1.97500   0.42003    15.80000    1.40000    2.60000
+VENDAS             8  204.25000  23.34065  1634.00000  180.00000  240.00000
+   Pearson Correlation Coefficients, N = 8
+          Prob > |r| under H0: Rho=0
+          PROPAGANDA    VENDAS
+--------  --------  --------
+PROPAGANDA   1.00000   0.91291
+              .       0.0015
+VENDAS     0.91291   1.00000
+            0.0015      .
+                                                REGRESSÃO LINEAR SIMPLES                                                
+
+                                                   The REG Procedure                                                    
+                                                     Model: MODEL1                                                      
+                                               Dependent Variable: VENDAS                                               
+
+Source                 DF  Sum of Squares  Mean Square   F Value    Pr > F
+---------------  --------  --------------  -----------  --------  --------
+Model                   1      3178.15587   3178.15587     30.01    0.0015
+Error                   6       635.34413    105.89069                    
+Corrected Total         7      3813.50000                                 
+
+Root MSE          10.29032    R-Square            0.8334
+Dependent Mean     204.25000    Adj R-Sq            0.8056
+Coeff Var          5.03810
+
+                        Parameter Estimates                        
+
+Variable          DF   Estimate  Standard Error   t Value  Pr > |t|
+----------  --------  ---------  --------------  --------  --------
+Intercept          1  104.06073        18.64622      5.58    0.0014
+PROPAGANDA         1   50.72874         9.25967      5.48    0.0015
+
+                                                  ANALISE DE RESIDUOS                                                   
+
+                                                The UNIVARIATE Procedure
+                                               Variable:  RES  (Residual)
+
+                                                        Moments
+
+N                                  8    Sum Weights                        8
+Mean                       -0.000000    Sum Observations           -0.000003
+Std Deviation               9.526985    Variance                   90.763447
+Skewness                   -0.929108    Kurtosis                    3.006467
+Uncorrected SS            635.344130    Corrected SS              635.344130
+Coeff Variation       -2540529388.628477    Std Error Mean              3.368298
+
+         Basic Statistical Measures          
+
+Location             Variability             
+--------  ---------  -------------  ---------
+Mean      -0.000000  Std Deviation   9.526985
+Median    -0.736843  Variance       90.763447
+Mode      -1.226721  Range          34.000000
+
+Quantiles (Definition 5)
+
+Quantile      Estimate
+----------  ----------
+0% Min      -19.518219
+1%          -19.518219
+5%          -19.518219
+10%         -19.518219
+25% Q1       -1.226721
+50% Median   -0.736843
+75% Q3        4.481781
+90%          14.481781
+95%          14.481781
+99%          14.481781
+100% Max     14.481781
+
+          Extreme Observations           
+
+Lowest                Highest            
+--------  ----------  --------  ---------
+Value     -19.518219  Value     -0.809717
+Value      -1.226721  Value     -0.663968
+Value      -1.226721  Value      4.044534
+Value      -0.809717  Value      4.919028
+Value      -0.663968  Value     14.481781
+
+
+
+
+
+
+
+          Tests for Normality          
+
+Test                Statistic   p Value
+------------------  ---------  --------
+Shapiro-Wilk        0.865317402  0.135579526
+Kolmogorov-Smirnov  0.323772698  0.30167454
+Anderson-Darling    0.637477538      0.05
+Cramer-von Mises    0.12183976  0.49708429
+
+
+
+
+         Tests for Location          
+
+Test                Statistic   p Value
+------------------  ---------  --------
+Student's t         -0.000000111  0.999999914
+Sign                       -1  0.7265625
+Signed Rank                 0  0.999999999
+
