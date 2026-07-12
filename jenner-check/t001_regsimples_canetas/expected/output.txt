@@ -1,0 +1,71 @@
+                                                 DIAGRAMA DE DISPERSÃO                                                  
+
+                       Plot of SETOR*ANALFABETISMO                        
+
+12 +                                                                1     
+   |                                                                      
+   |                                                                      
+   |                                                                      
+10 +                                                                      
+   |                                                                      
+   |                                                                      
+   |                                                                      
+ 8 +                                                                      
+   |                                                                      
+   |                                                                      
+   |                                                            1         
+   |                                                                      
+ 6 +                                                                      
+   |                                                                      
+   |                                                                      
+   |    1                                                                 
+ 4 +                                1                                     
+   |                    1                                                 
+   |            1                                                         
+   |          1                                                           
+ 2 +       1                                                              
+   ++-------------+-------------+------------+-------------+-------------+
+    15            20            25           30            35            40
+                                  ANALFABETISMO
+
+
+                                                 DIAGRAMA DE DISPERSÃO                                                  
+
+                    The CORR Procedure
+                    2 Variables:    SETOR   ANALFABETISMO
+                    Simple Statistics
+Variable         N      Mean   Std Dev       Sum   Minimum   Maximum
+--------  --------  --------  --------  --------  --------  --------
+SETOR                 8   4.76250   3.30365   38.10000   2.00000  12.00000
+ANALFABETISMO         8  24.46250   8.60680  195.70000  16.60000  38.30000
+   Pearson Correlation Coefficients, N = 8
+          Prob > |r| under H0: Rho=0
+               SETORANALFABETISMO
+--------  --------  --------
+SETOR      1.00000   0.87857
+              .       0.0041
+ANALFABETISMO   0.87857   1.00000
+            0.0041      .
+                                                   REG.LINEAR.SIMPLES                                                   
+
+                                                   The REG Procedure                                                    
+                                                     Model: MODEL1                                                      
+                                           Dependent Variable: ANALFABETISMO                                            
+
+Source                 DF  Sum of Squares  Mean Square   F Value    Pr > F
+---------------  --------  --------------  -----------  --------  --------
+Model                   1       400.25628    400.25628     20.30    0.0041
+Error                   6       118.28247     19.71374                    
+Corrected Total         7       518.53875                                 
+
+Root MSE           4.44002    R-Square            0.7719
+Dependent Mean      24.46250    Adj R-Sq            0.7339
+Coeff Var         18.15030
+
+                       Parameter Estimates                       
+
+Variable         DF  Estimate  Standard Error   t Value  Pr > |t|
+---------  --------  --------  --------------  --------  --------
+Intercept         1  13.56164         2.88390      4.70    0.0033
+SETOR             1   2.28890         0.50797      4.51    0.0041
+

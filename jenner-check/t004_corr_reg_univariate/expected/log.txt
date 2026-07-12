@@ -1,0 +1,85 @@
+
+NOTE: Option OBS changed to 100.
+NOTE: Option TITLE changed to correlação.
+NOTE: DATA EMPRESA
+
+NOTE: Processing inline DATALINES (8 lines)
+
+NOTE: Read 8 rows from DATALINES.
+NOTE: Wrote EMPRESA (8 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: Option TITLE changed to DIAGRAMA DE DISPERSÃO.
+NOTE: PROC PLOT data=
+
+NOTE: PROC PLOT produced 1 plot(s) from 8 observations.
+NOTE: Option TITLE changed to COEFICIENTE DE CORRELAÇÃO.
+NOTE: PROC CORR data=
+
+NOTE: ODS plot written: corr_heatmap.spec.json
+NOTE: PROC CORR ODS Graphics generated.
+NOTE: DATA GANHOS
+
+NOTE: Processing inline DATALINES (10 lines)
+
+NOTE: Read 10 rows from DATALINES.
+NOTE: Wrote GANHOS (10 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PLOT data=
+
+NOTE: PROC PLOT produced 1 plot(s) from 10 observations.
+NOTE: PROC CORR data=
+
+NOTE: ODS plot written: corr_heatmap.spec.json
+NOTE: PROC CORR ODS Graphics generated.
+NOTE: DATA CONSUMO
+
+NOTE: Processing inline DATALINES (9 lines)
+
+NOTE: Read 9 rows from DATALINES.
+NOTE: Wrote CONSUMO (9 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PLOT data=
+
+NOTE: PROC PLOT produced 1 plot(s) from 9 observations.
+NOTE: PROC CORR data=
+
+NOTE: ODS plot written: corr_heatmap.spec.json
+NOTE: PROC CORR ODS Graphics generated.
+NOTE: DATA EMPRESA
+
+NOTE: Processing inline DATALINES (8 lines)
+
+NOTE: Read 8 rows from DATALINES.
+NOTE: Wrote EMPRESA (8 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: Option TITLE changed to DIAGRAMA DE DISPERSÃO.
+NOTE: PROC PLOT data=
+
+NOTE: PROC PLOT produced 1 plot(s) from 8 observations.
+NOTE: Option TITLE changed to COEFICIENTE DE CORRELAÇÃO.
+NOTE: PROC CORR data=
+
+NOTE: ODS plot written: corr_heatmap.spec.json
+NOTE: PROC CORR ODS Graphics generated.
+NOTE: Option TITLE changed to REGRESSÃO LINEAR SIMPLES.
+NOTE: PROC REG data=
+
+NOTE: PROC REG: processed 1 job(s) in batch
+NOTE: Output dataset OUT_EMPRESA written.
+NOTE: ODS plot written: reg_residuals_vs_predicted.spec.json
+NOTE: ODS plot written: reg_residual_histogram_panel.spec.json
+NOTE: ODS plot written: reg_residuals_vs_obs_order.spec.json
+NOTE: ODS plot written: reg_qq_plot.spec.json
+NOTE: ODS plot written: reg_cooksd.spec.json
+NOTE: ODS plot written: reg_fitplot.spec.json
+NOTE: PROC REG ODS Graphics generated.
+NOTE: Option TITLE changed to ANALISE DE RESIDUOS.
+NOTE: PROC UNIVARIATE

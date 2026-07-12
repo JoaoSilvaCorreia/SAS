@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_anova_tukey_milho",
+  "source_file": "Estatistica/ANALISE_VARIANCIA_TESTE_TUKEY.sas",
+  "source_blob_sha": "8db7796fac538be005111a3177500fb01aad4738",
+  "source_commit": "f97edaa2855330ee3d7fccfcb830522884fa0755",
+  "notes": "Self-contained (no substitution needed): corn-variety yield data (TESTE) with PROC MEANS, PROC ANOVA one-way, and Tukey/Dunnett multiple-comparison tests. Runs verbatim from the repo."
+}

@@ -1,0 +1,69 @@
+                                                  The MEANS Procedure
+
+ Variable    Label                 Corrected SS
+ ----------------------------------------------
+ TRATAMENTO  Variedades de milho              .
+ ----------------------------------------------
+
+
+Dependent Variable: PRODUCAO Produção em kg/100m2
+
+Source                  DF  Sum of Squares     Mean Square    F Value     Pr > F
+--------------------------------------------------------------------------------
+TRATAMENTO               3        163.7500         54.5833       7.80     0.0020
+Error                   16        112.0000          7.0000          .          .
+Corrected Total         19        275.7500                          .          .
+
+R-Square: 0.5938  Root MSE: 2.6458  Mean: 26.7500
+
+
+Tukey's Studentized Range (HSD) Test for Produção em kg/100m2
+
+Alpha                            0.05
+Error Degrees of Freedom         16
+Error Mean Square                7.000000
+
+Level of          -----------Variedades de milho----------
+Variedades de milho      N         Mean      Std Dev
+
+A                     5      23.0000       2.5495
+B                     5      27.0000       2.7386
+C                     5      26.0000       2.7386
+D                     5      31.0000       2.5495
+
+Comparisons significant at the 0.05 level are indicated by ***.
+
+Comparison             Difference      Std Err  Significant
+------------------------------------------------------------
+A - B                     -4.0000       1.6733             
+A - C                     -3.0000       1.6733             
+A - D                     -8.0000       1.6733          ***
+B - C                      1.0000       1.6733             
+B - D                     -4.0000       1.6733             
+C - D                     -5.0000       1.6733          ***
+
+
+Dunnett's Test for Produção em kg/100m2
+
+Alpha                            0.05
+Error Degrees of Freedom         16
+Error Mean Square                7.000000
+
+Level of          -----------Variedades de milho----------
+Variedades de milho      N         Mean      Std Dev
+
+A                     5      23.0000       2.5495
+B                     5      27.0000       2.7386
+C                     5      26.0000       2.7386
+D                     5      31.0000       2.5495
+
+Comparisons significant at the 0.05 level are indicated by ***.
+
+Comparison             Difference      Std Err  Significant
+------------------------------------------------------------
+B - A                      4.0000       1.6733             
+C - A                      3.0000       1.6733             
+D - A                      8.0000       1.6733          ***
+
+
+

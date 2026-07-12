@@ -1,0 +1,20 @@
+
+NOTE: Option OBS changed to 100.
+NOTE: Option PS changed to 60.
+NOTE: DATA TESTE
+
+NOTE: Processing inline DATALINES (20 lines)
+
+NOTE: Read 20 rows from DATALINES.
+NOTE: Wrote TESTE (20 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC MEANS
+NOTE: PROC MEANS statement used.
+NOTE: PROC ANOVA data=
+
+NOTE: PROC ANOVA: using Python wrapper for advanced features
+NOTE: ODS plot written: anova_boxplot.spec.json
+NOTE: ODS plot written: anova_diagnostics.spec.json
+NOTE: PROC ANOVA: 20 observations, 1 effects analyzed
